@@ -7,6 +7,7 @@ Workshop: https://catalog.workshops.aws/building-gen-ai-apps/en-US
 
 GitHub: https://github.com/build-on-aws/gen-ai-workshop
 
+
 Survey: https://pulse.aws/survey/UBCJUUZV
 
 AWS Gen AI Community Hub: https://community.aws/generative-ai
@@ -16,3 +17,7 @@ AWS Gen AI Community Hub: https://community.aws/generative-ai
 # Meetup
 1. https://github.com/jayyanar/learning-aws-bedrock/tree/main/blog3-Titan
 2. https://www.dataopslabs.com/p/aws-bedrock-learning-series-blog
+
+
+# BEST Book
+1. https://github.com/generative-ai-on-aws/generative-ai-on-aws/tree/main
